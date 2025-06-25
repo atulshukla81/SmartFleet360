@@ -1,0 +1,10 @@
+# /.gitignore
+node_modules/
+dist/
+.env
+.env.*
+/frontend/.angular/cache
+/backend/bin
+/backend/obj
+*.log
+*.sqlite
